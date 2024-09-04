@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.27499999"
-     inkscape:cx="36.576232"
-     inkscape:cy="928.95204"
+     inkscape:zoom="0.38890872"
+     inkscape:cx="288.42551"
+     inkscape:cy="1186.0818"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -62,12 +62,12 @@
      id="layer2"
      inkscape:label="Fondo color">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.11651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.13207;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4019"
-       width="2118.6907"
-       height="2286.8694"
-       x="-505.51541"
-       y="-129.14027" />
+       width="2178.1833"
+       height="2286.8538"
+       x="-505.50763"
+       y="-129.13249" />
     <g
        style="display:inline"
        id="layer1-3"
@@ -525,36 +525,41 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#008080;fill-opacity:1;stroke:none"
        x="1178.9037"
-       y="1080.4714"
+       y="1139.9558"
        id="text2424-7-6-0-4"
        transform="scale(0.9914293,1.0086448)"><tspan
          sodipodi:role="line"
          x="1178.9037"
-         y="1080.4714"
+         y="1139.9558"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.946px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1"
          id="tspan5423-7-5">Diseño gráfico</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#aa00d4;fill-opacity:1;stroke:none"
-       x="1202.4548"
-       y="981.91785"
+       x="1287.5696"
+       y="987.49469"
        id="text2424-7-6-5-0"
        transform="scale(0.9914293,1.0086448)"><tspan
          sodipodi:role="line"
-         x="1202.4548"
-         y="981.91785"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.946px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#aa00d4;fill-opacity:1"
-         id="tspan5423-2-1">Databases</tspan></text>
+         x="1287.5696"
+         y="987.49469"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.946px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#aa00d4;fill-opacity:1"
+         id="tspan5423-2-1">Crear dashboards a partir</tspan><tspan
+         sodipodi:role="line"
+         x="1287.5696"
+         y="1024.9271"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.946px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#aa00d4;fill-opacity:1"
+         id="tspan148">de bases de datos con Python</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#008080;fill-opacity:1;stroke:none"
        x="1164.6777"
-       y="877.73218"
+       y="883.30902"
        id="text2424-7-6-0-8-0"
        transform="scale(0.9914293,1.0086448)"><tspan
          sodipodi:role="line"
          x="1164.6777"
-         y="877.73218"
+         y="883.30902"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.946px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1"
          id="tspan5423-7-9-6">LLMs con Python</tspan></text>
     <text
@@ -653,36 +658,36 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none"
        x="1330.5428"
-       y="1017.3347"
+       y="1071.2996"
        id="text3931-7-3-7-4"
        transform="scale(0.89942843,1.1118172)"><tspan
          sodipodi:role="line"
          x="1330.5428"
-         y="1017.3347"
+         y="1071.2996"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6936px;line-height:110%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
-         id="tspan3761-44-0-8-9">Por confirmar...</tspan></text>
+         id="tspan3761-44-0-8-9">Osvaldo Salazar</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none"
        x="1293.5869"
-       y="825.67908"
+       y="830.73828"
        id="text3931-7-3-6"
        transform="scale(0.89942843,1.1118172)"><tspan
          sodipodi:role="line"
          x="1293.5869"
-         y="825.67908"
+         y="830.73828"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6936px;line-height:110%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
          id="tspan3761-44-0-89">MC. Alejandro Pineda</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none"
        x="1321.6342"
-       y="920.99402"
+       y="968.21326"
        id="text3931-7-3-7-6-8-2"
        transform="scale(0.89942843,1.1118172)"><tspan
          sodipodi:role="line"
          x="1321.6342"
-         y="920.99402"
+         y="968.21326"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6936px;line-height:110%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
          id="tspan3761-44-0-8-8-4-6">Guillermo Valdés</tspan></text>
     <text
